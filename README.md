@@ -15,7 +15,9 @@ changes everytime you write css code so you have to watch the css changes manual
 - run `bun dev`
 
 ### - Environment Variables
-`API_URL` is referred to API server url so make sure to change to your server url
+- `API_URL` is referred to API server url so make sure to change to your server url
+
+
 
 <div style="display: flex;">
   <img src='https://svgshare.com/i/iMA.svg' alt="React JS" height="36px" />
