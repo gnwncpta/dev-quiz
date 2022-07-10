@@ -5,23 +5,16 @@ Front end repositories
 
 When you start the application, the style are not automatically
 changes everytime you write css code so you have to watch the css changes manually.
-Because bun is not 
 
-### How to watch css changes on Bun ?
-
-___
-
+### Watch CSS on Bun ?
 - Open `dev-quiz` dir on terminal
 - run `npx tailwindcss -i ./src/input.css -o ./src/tailwind.css --watch`
 
-### How to start project
-
-___
-
+### Start Project
 - Open `dev-quiz` dir on terminal
 - run `bun dev`
 
-### Environment Variable
+### Environment Variables
 `API_URL` is referred to API server url so make sure to change to your server url
 
 <div style="display: flex;">
