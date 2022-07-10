@@ -1,15 +1,16 @@
 # Dev Quiz
 
 Dev quiz application that using Bun.js which faster than Node.js & Deno.js
+Front end repositories
+
 
 ### How to watch change css on Bun ?
-- Open another terminal tab.
-- Go to `dev-quiz` dir
-- run `npx tailwindcss -i ./src/input.css -o ./dist/tailwind.css --watch`
+<li> Go to `dev-quiz` dir </li>
+<li> run `npx tailwindcss -i ./src/input.css -o ./dist/tailwind.css --watch` </li>
 
 ### How to start project
-- Open `dev-quiz` dir
-- run `bun dev`
+<li> Open `dev-quiz` dir </li>
+<li> run `bun dev` </li>
 
 ### Environment Variable
 `API_URL` is referred to API server url so make sure to change to your server url
