@@ -10,6 +10,7 @@ If you are new with Bun.js please consider to read the docs <a href="https://bun
 
 ### - Start Project
 - Open `dev-quiz` dir on terminal
+- Install dependencies `bun install`
 - run `bun dev`
 
 ### Install Dependencies on Bun ?
