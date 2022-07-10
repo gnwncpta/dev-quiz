@@ -8,10 +8,16 @@ changes everytime you write css code so you have to watch the css changes manual
 Because bun is not 
 
 ### How to watch css changes on Bun ?
+
+---
+
 - Open `dev-quiz` dir on terminal
 - run `npx tailwindcss -i ./src/input.css -o ./dist/tailwind.css --watch`
 
 ### How to start project
+
+---
+
 - Open `dev-quiz` dir on terminal
 - run `bun dev`
 
