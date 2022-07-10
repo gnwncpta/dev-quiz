@@ -9,14 +9,14 @@ Because bun is not
 
 ### How to watch css changes on Bun ?
 
----
+___
 
 - Open `dev-quiz` dir on terminal
-- run `npx tailwindcss -i ./src/input.css -o ./dist/tailwind.css --watch`
+- run `npx tailwindcss -i ./src/input.css -o ./src/tailwind.css --watch`
 
 ### How to start project
 
----
+___
 
 - Open `dev-quiz` dir on terminal
 - run `bun dev`
