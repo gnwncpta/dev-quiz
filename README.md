@@ -19,7 +19,7 @@ changes everytime you write css code so you have to watch the css changes manual
 
 
 
-<div style="display: flex;">
+<div style="margin-top: 20px; display: flex;">
   <img src='https://svgshare.com/i/iMA.svg' alt="React JS" height="36px" />
   <img src='https://svgshare.com/i/iLM.svg' alt="Tailwind CSS" height="36px" />
   <img src='https://svgshare.com/i/iLU.svg' title='Javascript' height="36px" />
