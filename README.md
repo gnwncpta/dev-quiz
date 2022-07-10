@@ -6,6 +6,8 @@ Front end repositories
 When you start the application, the style are not automatically
 changes everytime you write css code so you have to watch the css changes manually.
 
+If you are new with Bun.js please consider to read the docs <a href="https://bun.sh">here</a>.
+
 ### - Start Project
 - Open `dev-quiz` dir on terminal
 - run `bun dev`
